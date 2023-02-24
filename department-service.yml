@@ -11,8 +11,8 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.MySQL8Dialect
-  application:
-    name: DEPARTMENT-SERVICE
+  boot:
+    message: hello department service
 eureka:
   instance:
     client:
