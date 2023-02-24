@@ -10,6 +10,8 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.MySQL8Dialect
+  boot:
+    message: heellloooo employeeee service
 server:
   port: 8081
 eureka:
