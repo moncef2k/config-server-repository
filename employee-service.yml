@@ -11,7 +11,7 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.MySQL8Dialect
   boot:
-    message: heellloooo employeeee service
+    message: employee config file updated 
 server:
   port: 8081
 eureka:
